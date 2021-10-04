@@ -1,1 +1,11 @@
 CloudHub Proxy URL: http://training4-american-ws-rpt-proxy.us-e2.cloudhub.io/api/flights
+//Free
+Client ID:
+b64f65aeeb024ac9a48d08c57c18d799
+Client Secret:
+25CF8D0Ec0244c18834f94Aa7a31CcDd
+//paid
+Client ID:
+dd3619894112466eac47931e3c20de1a
+Client Secret:
+7f94cD560B6A47219d2ABdf73462179c
