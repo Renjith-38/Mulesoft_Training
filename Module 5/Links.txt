@@ -1,0 +1,1 @@
+CloudHub Proxy URL: http://training4-american-ws-rpt-proxy.us-e2.cloudhub.io/api/flights
