@@ -12,7 +12,7 @@
 <meta name="twitter:image"  content="http://localhost:8080/Urls/static/appcode/images/logo-MetaData.png"/>
 <meta name="twitter:description" content="Expand reach using short URLs"/>
 <script>var el = document.createElement('script');
-el.setAttribute('src', 'https://www.googletagmanager.com/gtag/js?id=G-Z98FP0K9VP');
+el.setAttribute('src', 'https://www.googletagmanager.com/gtag/js?id=G-DXWJBKRGPQ');
 el.setAttribute('type', 'text/javascript');
 document.head.appendChild(el);
 window.dataLayer = window.dataLayer || [];
@@ -20,8 +20,9 @@ function gtag() {
 dataLayer.push(arguments);
 }
 gtag('js', new Date());
-gtag('config', 'G-Z98FP0K9VP');
-gtag('set', 'user_properties', {URL_Id:'25039'});
+gtag('config', 'G-DXWJBKRGPQ', {
+'custom_map': {'dimension1':'URL_Id'}});
+gtag('event', 'my_event', {'URL_Id':'25039'});
 </script>
 </head><body><script>
 var url=window.location.href;
